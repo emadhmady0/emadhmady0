@@ -1,3 +1,4 @@
+[![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadhmady0)](https://github.com/emadhmady0/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Emad Hmady</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
