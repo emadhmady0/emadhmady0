@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development with SE Factory**
   
-- I have Successfullt completed **The Foundations of Computer Science with SE Factory**
+- I have Successfully completed **The Foundations of Computer Science with SE Factory**
 
 - 💬 Ask me about **python**
 
