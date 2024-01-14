@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emad Hmady</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
-- 🌱 I’m currently learning **Full-Stack Web Development with SE Factory**
-  
-- I have Successfully completed **The Foundations of Computer Science with SE Factory**
+- 🌱 I have Successfully completed **The Foundations of Computer Science with SE Factory**
 
 - 💬 Ask me about **python**
 
