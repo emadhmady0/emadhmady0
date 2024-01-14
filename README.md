@@ -1,4 +1,5 @@
-[![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=emadhmadyy)](https://github.com/emadhmadyy/github-readme-stats)
+![emadhmadyy's Stats](https://github-readme-stats.vercel.app/api?username=emadhmadyy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![emadhmadyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emadhmadyy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <h1 align="center">Hi 👋, I'm Emad Hmady</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
