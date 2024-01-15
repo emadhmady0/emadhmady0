@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emad</h1>
 <h3 align="center">Full Stack Web Developer From Lebanon 💻</h3>
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/emadhmadyy/emadhmadyy/main/coding%20freak.webp"/>
+</div>
+
 <h3 align="center">I turn innovative ideas into reality 💡 through the art of coding 🚀</h3>
 
 <h2 >💬 Ask me about</h2>
