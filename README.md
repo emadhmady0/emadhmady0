@@ -1,6 +1,4 @@
-![emadhmadyy's Stats](https://github-readme-stats.vercel.app/api?username=emadhmadyy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![emadhmadyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emadhmadyy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-<h1 align="center">Hi 👋, I'm Emad Hmady</h1>
+<h1 align="center">Hi 👋, I'm Emad </h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
 - 🌱 I have Successfully completed **The Foundations of Computer Science with SE Factory**
@@ -45,3 +43,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
+![emadhmadyy's Stats](https://github-readme-stats.vercel.app/api?username=emadhmadyy&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![emadhmadyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emadhmadyy&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
